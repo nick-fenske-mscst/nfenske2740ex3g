@@ -1,0 +1,12 @@
+101
+Nick Fenske
+40.0
+35.0
+102
+Jake Miller
+10.0
+40.0
+103
+Mike Ogre
+15.0
+70.0
